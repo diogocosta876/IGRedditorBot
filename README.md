@@ -1,6 +1,4 @@
 <img align="left" width="80" height="80" src="https://external-preview.redd.it/iDdntscPf-nfWKqzHRGFmhVxZm4hZgaKe5oyFws-yzA.png?auto=webp&s=38648ef0dc2c3fce76d5e1d8639234d8da0152b2" alt="Resume application project app icon">
-
-# Resume application project
 # RedditorInfluencerBOT
 
 This is a side project created by [diogocosta876](https://github.com/diogocosta876)
