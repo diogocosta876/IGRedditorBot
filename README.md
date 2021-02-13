@@ -1,5 +1,6 @@
-<img align="left" width="80" height="80" src="https://external-preview.redd.it/iDdntscPf-nfWKqzHRGFmhVxZm4hZgaKe5oyFws-yzA.png?auto=webp&s=38648ef0dc2c3fce76d5e1d8639234d8da0152b2" alt="Resume application project app icon">
-# RedditorInfluencerBOT
+
+
+# RedditorInfluencerBOT :speech_balloon:
 
 This is a side project created by [diogocosta876](https://github.com/diogocosta876)
 
@@ -19,6 +20,13 @@ It uses **Praw** (Python Reddit API Wrapper) and **InstaBot** (Instagram API Wra
 [cult-img]:     https://external-preview.redd.it/iDdntscPf-nfWKqzHRGFmhVxZm4hZgaKe5oyFws-yzA.png?auto=webp&s=38648ef0dc2c3fce76d5e1d8639234d8da0152b2
 ## Warning:
 The **InstaBot** library is currently facing issues because of Instagram accelerating the deprecation of instagram API Platform, image posting my take anywhere up to 5 minutes or it might not work at all. As such the IG posting function will not work as intended until a fix is found.
+
+## Setting up the aplication
+* Put your Reddit aplication and instagram account credentials on **credentialsEXAMPLE.py** (search for praw tutorials for getting the reddit aplication set up)
+* Rename credentialsEXAMPLE.py to **credentials.py**
+* Install requirements as needed
+* Run script.py
+
 
 ## Requirements
 tkinter
