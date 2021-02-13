@@ -5,4 +5,14 @@ main.py
 __pycache__
 .idea/workspace.xml
 .old/*
-.old/
+.config/*
+config/friends.txt
+config/followed.txt
+config/diogocosta876.dc@gmail.com_uuid_and_cookie.json
+config/diogocosta876.dc@gmail.com.checkpoint
+config/comments.txt
+config/blacklist.txt
+config/skipped.txt
+config/unfollowed.txt
+config/whitelist.txt
+config/log/instabot_3133001532032.log

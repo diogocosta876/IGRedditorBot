@@ -1,0 +1,8 @@
+tkinter
+praw
+PIL
+requests
+io
+instabotBot
+shutil
+os
