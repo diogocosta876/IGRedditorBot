@@ -17,16 +17,16 @@ The project's Key Elements:
 The post cycling works by chaching all the post URLs and Titles. When the "Next Post" button is pressed, the script fetches the post image, resizes it, crops it and the GUI's image and text frames are updated 
 It uses **Praw** (Python Reddit API Wrapper) and **InstaBot** (Instagram API Wrapper) to fetch posts and submit them.
 
-[cult-img]:     https://external-preview.redd.it/iDdntscPf-nfWKqzHRGFmhVxZm4hZgaKe5oyFws-yzA.png?auto=webp&s=38648ef0dc2c3fce76d5e1d8639234d8da0152b2
+![](https://cdn.discordapp.com/attachments/191607843714105344/810005284881432596/ezgif.com-gif-maker_1.gif)
+
 ## Warning:
 The **InstaBot** library is currently facing issues because of Instagram accelerating the deprecation of instagram API Platform, image posting my take anywhere up to 5 minutes or it might not work at all. As such the IG posting function will not work as intended until a fix is found.
 
 ## Setting up the aplication
 * Put your Reddit aplication and instagram account credentials on **credentialsEXAMPLE.py** (search for praw tutorials for getting the reddit aplication set up)
-* Rename credentialsEXAMPLE.py to **credentials.py**
+* Rename credentialsExample.py to **credentials.py**
 * Install requirements as needed
 * Run script.py
-
 
 ## Requirements
 tkinter
