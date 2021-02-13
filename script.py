@@ -158,8 +158,8 @@ while True:
         title.pack()
         savecount = 0
         displayPostCount += 1
-        print(urlDict)
-        print(titleDict)
+        # print(urlDict)
+        # print(titleDict)
         window.mainloop()
         break
     except:
