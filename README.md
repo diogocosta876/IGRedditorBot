@@ -1,4 +1,4 @@
-<img align="left" width="40" height="40" src="https://raw.githubusercontent.com/diogocosta876/IGRedditorBot/main/logo.png">
+<img align="left" padding-top="30" width="40" height="40" src="https://raw.githubusercontent.com/diogocosta876/IGRedditorBot/main/logo.png">
 
 # RedditorInfluencerBOT
 
