@@ -21,6 +21,13 @@ It uses **Praw** (Python Reddit API Wrapper) and **InstaBot** (Instagram API Wra
 ## Warning:
 The **InstaBot** library is currently facing issues because of Instagram accelerating the deprecation of instagram API Platform, image posting my take anywhere up to 5 minutes or it might not work at all. As such the IG posting function will not work as intended until a fix is found.
 
+## Setting up the aplication
+* Put your Reddit aplication and instagram account credentials on **credentialsEXAMPLE.py** (search for praw tutorials for getting the reddit aplication set up)
+* Rename credentialsEXAMPLE.py to **credentials.py**
+* Install requirements as needed
+* Run script.py
+
+
 ## Requirements
 tkinter
 praw
