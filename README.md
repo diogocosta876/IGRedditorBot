@@ -1,6 +1,6 @@
-<img align="left" width="20" height="20" src="https://raw.githubusercontent.com/diogocosta876/IGRedditorBot/main/logo.png">
 
-# RedditorInfluencerBOT
+
+# RedditorInfluencerBOT <img align="left" width="20" height="20" src="https://raw.githubusercontent.com/diogocosta876/IGRedditorBot/main/logo.png">
 
 This is a side project created by [diogocosta876](https://github.com/diogocosta876)
 
