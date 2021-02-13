@@ -1,4 +1,5 @@
-<img align="left" width="80" height="80" src="https://external-preview.redd.it/iDdntscPf-nfWKqzHRGFmhVxZm4hZgaKe5oyFws-yzA.png?auto=webp&s=38648ef0dc2c3fce76d5e1d8639234d8da0152b2" alt="Resume application project app icon">
+<img align="left" width="30" height="30" src="https://raw.githubusercontent.com/diogocosta876/IGRedditorBot/main/logo.png">
+
 # RedditorInfluencerBOT
 
 This is a side project created by [diogocosta876](https://github.com/diogocosta876)
