@@ -14,7 +14,7 @@ The project's Key Elements:
 * Usage of **3rd party wrapper APIs**
 * Development of a **Responsive User Interface**, using buttons to allow for **user input**
 
-The post cycling works by chaching all the post URLs and Titles. When the "Next Post" button is pressed, the script fetches the post image, resizes it, crops it and the GUI's image and text frames are updated 
+The post cycling works by chaching all the post URLs and Titles. When the "Next Post" button is pressed the script fetches the post image, resizes it, crops it and updates the GUI's image and text frames.
 It uses **Praw** (Python Reddit API Wrapper) and **InstaBot** (Instagram API Wrapper) to fetch posts and submit them.
 
 ## Warning:
